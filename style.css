@@ -94,6 +94,15 @@ body{
     box-shadow: 5px 5px 0px #151515;
 }
 
+.block__list{
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    background-color: #151515;
+}
+
 .link__text{
     padding-top: 29px;
     font-size: 36px;
