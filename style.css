@@ -96,14 +96,14 @@ body{
 
 .block__list{
     width: 100%;
-    height: auto;
+    height: 300px;
     margin-top: 50px;
     border-radius: 5px;
     color: #FFFFFF;
     background-color: #151515;
 }
 
-.link__text{
+.list__text{
     padding-top: 29px;
     font-size: 36px;
     line-height: 42px;
